@@ -75,7 +75,7 @@ p{
 }
 .card .stars-count .not-hovered{
     color: hsl(217, 12%, 63%);
-    background-color: black;
+    background-color: hsl(213, 19%, 18%);
 }
 .card .stars-count .not-hovered:hover{
     background-color: hsl(25, 97%, 53%);
